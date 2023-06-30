@@ -48,7 +48,7 @@ npm install
 export SERVER_ID="108250087147832934"
 export CHANNEL_ID="109489299228171884"
 export SALAI_TOKEN="your-salai-token"
-export SALAI_DAVINCI_TOKENTOKEN="Token of Discord bot"
+export DAVINCI_TOKEN="Token of Discord bot"
 ```
 4. run the example
 ```
